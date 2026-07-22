@@ -153,7 +153,8 @@ def scrape_reference_pages(reference_entries: list[tuple[str, list[str]]], sourc
 
             if page_text.strip():
                 output_path = reference_dir / f"reference_{index:03d}.txt"
-                output_path.write_text(page_text.strip() + "\n", encoding="utf-8")
+                output_path.write_text(
+                    page_text.strip() + "\n", encoding="utf-8")
                 return ReferencePageResult(
                     index=index,
                     citation=citation,
