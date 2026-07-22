@@ -1,0 +1,92 @@
+27 captures
+02 Oct 2015 - 05 Mar 2026
+Feb
+MAR
+Apr
+04
+2015
+2016
+2017
+success
+fail
+About this capture
+COLLECTED BY
+Collection:
+Wikipedia Outlinks March 2016
+Crawl of outlinks from wikipedia.org started March, 2016. These files are currently not publicly accessible.
+
+Properties of this collection.
+It has been several years since the last time we did this.
+For this collection, several things were done:
+1. Turned off duplicate detection.   This collection will be complete, as there is a
+good chance we will share the data, and sharing data with pointers to random
+other collections, is a complex problem.
+
+2. For the first time, did all the different wikis.   The original runs were just against the 
+enwiki.   This one, the seed list was built from all 865 collections.
+TIMESTAMPS
+The Wayback Machine - https://web.archive.org/web/20160304201627/http://cnnphilippines.com/news/2015/10/01/Rodrigo-Duterte-meets-Bongbong-Marcos-a-day-after-Cayetano.html
+Home
+News
+Business
+Metro
+Entertainment
+Regional
+Sports
+World
+Lifestyle
+Videos
+Traffic Center
+Front Page
+News
+Marcos meets with Duterte in Davao City
+By Ben O. Tesiorna, for CNN Philippines
+Updated 11:50 AM PHT Thu, October 1, 2015
+enablePagination: false
+maxItemsPerPage: 10
+totalITemsFound:
+maxPaginationLinks: 10
+maxPossiblePages:
+startIndex:
+endIndex:
+Sen. Bongbong Marcos met with Davao City Mayor Rodrigo Duterte on Wednesday evening (September 30).
+Davao City (CNN Philippines)
+— A day after meeting with the Cayetanos, Davao City Mayor Rodrigo Duterte met with Sen. Ferdinand “Bongbong” Marcos Jr. at a hotel in Davao City.
+Marcos is reportedly gunning for the vice president post in the 2016 elections.
+Similar to the Cayetano meeting, Duterte still declared that he is not running for president.
+Related: Duterte-Cayetano tandem could be a 'force to reckon with' - analyst
+Marcos met with Duterte Wednesday evening (September 30), but both denied talking of their possible tandem for the elections next year.
+Duterte said they discussed many things — from politics and the chances of every candidate on the political horizon, including some advice on how to do it, and in the areas Marcos needs to concentrate on.
+The senator, meanwhile, said that he needed to talk to someone who had genuine advice for him regarding his future political plans.
+Related: NP divided between Marcos, Cayetano, Trillanes
+Mayor Rodrigo Duterte
+Bongbong Marcos
+POST A COMMENT
+Related
+Duterte-Cayetano tandem could be a 'force to reckon with' - analyst
+Duterte: Cayetano can 'wipe out' other VP hopefuls
+NP divided between Marcos, Cayetano, Trillanes
+enablePagination: false
+maxItemsPerPage: 10
+totalITemsFound:
+maxPaginationLinks: 10
+maxPossiblePages:
+startIndex:
+endIndex:
+Latest from this section
+Manila holds summit to curb drug abuse
+Robredo: I and Mar are only bets not tainted with corruption
+Poe, Escudero hold first indoor rally in Zamboanga City
+Ship with North Korean crew held at Subic
+From around the web
+Apple iPhone sales top expectations
+80
+0
+International Edition
+U.S.
+International
+Indonesia
+© 2015 Nine Media Corp. CNN name, logo and all associated elements ™ and © 2015 Cable News Network. Turner Broadcasting System, Inc. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, Inc., displayed with permission.
+About us
+Contact us
+Join our team

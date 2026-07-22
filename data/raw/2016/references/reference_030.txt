@@ -1,0 +1,183 @@
+12 captures
+03 Jun 2015 - 25 Jan 2025
+May
+JUN
+Jul
+15
+2014
+2015
+2016
+success
+fail
+About this capture
+COLLECTED BY
+Organization:
+Internet Archive
+These crawls are part of an effort to archive pages as they are created and archive the pages that they refer to.   That way, as the pages that are referenced are changed or taken from the web, a link to the version that was live when the page was written will be preserved.
+Then the Internet Archive hopes that references to these archived pages will be put in place of a link that would be otherwise be broken, or a companion link to allow people to see what was originally intended by a page's authors.
+The goal is to
+fix all broken links on the web
+. 
+
+Crawls of supported "No More 404" sites.
+Collection:
+Wikipedia Near Real Time (from IRC)
+This is a collection of web page captures from links added to, or changed on, Wikipedia pages. The idea is to bring a reliability to Wikipedia outlinks so that if the pages referenced by Wikipedia articles are changed, or go away, a reader can permanently find what was originally referred to.
+This is part of the Internet Archive's attempt to
+rid the web of broken links
+.
+TIMESTAMPS
+The Wayback Machine - https://web.archive.org/web/20150615235723/http://www.philstar.com/headlines/2015/06/02/1461329/10-senators-sign-subcommittee-report-vs-binay
+Skip to main content
+Main menu
+The Philippine Star
+Pilipino Star Ngayon
+The Freeman
+Pang-Masa
+Banat
+philstar.com
+Philippine News for the Filipino Global Community
+Masthead, pagematch: 1, sectionmatch: 1
+Tue | 06/16/2015 07:33am |
+Forex: $1:45.200
+Search form
+Search
+Follow Us:
+Follow @PhilstarNews
+Secondary menu
+Home
+Headlines
+Opinion
+Nation
+World
+Business
+Sports
+Entertainment
+Lifestyle
+Other Sections
+Secondary sub-menu
+Disputed Seas
+Pork Barrel Scam
+Bill Tracker
+Election 2016
+Earthquake Reports
+Headlines Skinning Left, pagematch: , sectionmatch: 1
+Headlines ( Leaderboard Top ), pagematch: 1, sectionmatch: 1
+10 senators sign subcommittee report vs Binay
+By Marvin Sy
+(The Philippine Star)
+|
+Updated June 2, 2015 - 12:00am
+Vice President Jejomar Binay.
+STAR/File photo
+MANILA, Philippines - Ten senators have signed the Senate Blue Ribbon subcommittee report on the alleged overpricing in the construction of the Makati City Hall Building II that involved Vice President Jejomar Binay.
+The 46-page report, a copy of which was provided by the office of Sen. Aquilino Pimentel III, subcommittee chairman, required only nine signatures to make the report official.
+Apart from Pimentel, the others who signed the report as of yesterday were Sens. Sergio Osmeña III, Grace Poe, Antonio Trillanes IV, Francis Escudero, Pia Cayetano, Miriam Defensor-Santiago, Teofisto Guingona III, Paolo Benigno Aquino IV and Majority Leader Alan Peter Cayetano.
+The subcommittee recommended the filing of plunder charges against the Vice President, his son Makati Mayor Jejomar Erwin Binay Jr., members of the Bids and Awards Committee that conducted the bidding for the building, the executives of the contractor that won the bidding, the owner of the architectural and design firm tapped for the project and two alleged bagmen of the Vice President.
+The Blue Ribbon committee has 17 members and the report needed the signatures of a majority to make it official.
+Pimentel can now report out the findings in plenary and have it debated among all the members of the Senate.
+Headlines ( Article MRec ), pagematch: 1, sectionmatch: 1
+Acting Senate Minority Leader Vicente Sotto III, a former chairman of the Senate Rules Committee, explained that the report would have to be voted upon by the senators before it can be considered as an official Senate committee report.
+Without the vote in plenary, Sotto said it would remain as a mere committee report.
+The findings could be submitted to the Office of the Ombudsman for consideration since the recommendations in the report included the filing of criminal charges against some government officials.
+Pimentel said that the report was just partial because it focused only on the allegedly overpriced parking building constructed by the city government of Makati and there were other issues not yet covered.
+Based on the report, “the alleged overprice in the construction of Makati City Hall II Parking Building has revealed the commission of a crime and that crime is plunder.”
+Escudero, a former Binay ally widely attributed as the brains behind the Noy-Bi (Noynoy-Binay) campaign in the 2010 presidential elections, explained that he signed the report because the evidence cited by the committee was “to my mind sufficient to justify the recommendation to file the cases mentioned.”
+He said that this would also allow the persons identified as being liable for the crimes mentioned in the report “the opportunity to answer the allegations against them in their chosen forum the courts, since they refuse to participate in the Senate and have been saying that they will answer in the proper forum.”
+Poe, whose father the late Fernando Poe Jr. was also allied with the Vice President, has apparently severed ties with Binay, just like Escudero.
+Both Escudero and Poe were dropped from the lineup of the United Nationalist Alliance headed by the Vice President during the 2013 senatorial elections after they refused to agree on being exclusively the candidates of the party.
+The two senators ran as independents and were adopted by both the UNA and the administration coalition Team PNoy of President Aquino.
+Even though she did not attend any of the 21 hearings conducted by the subcommittee, Poe said that the evidence contained in the report were conclusive and justified the recommendations given.
+“You don’t have to be physically present in a hearing to sign the committee report. What is important is that you read the report and you were able to discuss the details with the chairman of the subcommittee or mother committee,” Poe said.
+“It was clear to me, just like one plus one equals (two). What is important are the personal and expert testimonies received,” she added.
+Osmeña, another ally of Binay in the past and the vice chairman of the Blue Ribbon committee, said that he signed the report because “the evidence are numerous and it has not been refuted by the accused.”
+Aquino said that he signed the report because the findings that the building was overpriced and that there were irregularities in the bidding process were largely unrefuted and unanswered.
+Guingona, chairman of the Blue Ribbon mother committee, said that there was basis to support the findings of overpricing in the building project.
+According to the report, the amount of overprice was anywhere from P1.124 billion to P1.389 billion.
+“Such massive accumulation or acquisition of ill-gotten wealth, carried out from 2008 to 2013, could only be plunder,” the report stated.
+“In the opinion of the subcommittee, all the elements of the crime of plunder have been clearly alleged and substantiated through the unequivocal and straightforward assertions, under oath, of the witnesses who have appeared before us during the hearings as well as from the documents already in the possession of the subcommittee,” it added.
+The report found that there was a conspiracy in the commission of the alleged crime and once a conspiracy is shown, “the act of one is the act of all the conspirators.”
+13 percent kickback
+In the case of the Vice President, the subcommittee recommended the filing of plunder charges because he was the principal signatory in the contract for the first three phases of the project and “for his involvement in the kickback system discussed earlier.”
+Based on the testimony provided by former Makati City vice mayor Ernesto Mercado, the Vice President, then the city mayor, took a 13 percent kickback from various infrastructure projects undertaken by the city government.
+The three bags that Mercado said contained the kickbacks amounting to P52 million were delivered to Binay Jr., who was councilor at the time, by Eduviges Baloloy, who was a trusted aide of the Vice President, and Gerardo Limlingan, another aide of Binay.
+Mercado testified that the money was for the family of the Vice President, his personal use and for the campaign of Binay in the 2010 elections where he ran and won as vice president.
+The subcommittee noted that the system of kickbacks allegedly bankrolled the construction of a vast property in Rosario, Batangas, which Mercado alleged is owned by the Vice President.
+The same property was claimed by Chinese-Filipino businessman Antonio Tiu as his own, which he calls the Sunchamp Agri-Tourism Park.
+The subcommittee also recommended the filing of plunder charges against members of the BAC: former city administrator Marjorie de Veyra, Lorenza Amores, Gerardo San Gabriel, Pio Kenneth Dasal and Ulysees Orienza.
+Hilmarc’s Construction Corp. chairman Efren Canlas, its president Robert Henson and Orlando Mateo, the owner of Mana Architecture & Interior Design tapped to design the project, were also cited as being part of the conspiracy to rig the bidding and overprice.
+Mercado and former city engineer Mario Hechanova, while part of the conspiracy, were not among the individuals recommended for filing of plunder, being already part of the Witness Protection Program of the Department of Justice.
+The subcommittee likewise recommended that further investigation be conducted on the possible involvement of the following Commission on Audit personnel in the grand conspiracy: Cecilia Caga-anan, Merla Bagsit, Gabriel Espina, Flora Ruiz, Cecilio Pineda, Roldan Menciano, Roberto Ferrer, Nemesio Avestruz, Ricardo Custodio, Allan Florentino, Zaldy Lavarro, Winiefredo Paquera and Rosalina Prestoza.
+Also recommended for further investigation are Tiu and Laureano Gregorio Jr., who was said to be the owner of the estate in Rosario from whom the former purchased the property.
+The subcommittee could not determine if the members of the Makati City council at the time the project was approved could be held liable for the mere act of approving the appropriation ordinance for the project.
+The subcommittee said that the Vice President should also be charged for violation of the Code of Conduct and Ethical Standards for Public Officials and Employees for the non-disclosure in his statement of assets, liabilities and net worth of the Batangas estate, which has been dubbed as “Hacienda Binay” by his critics.
+The subcommittee said that the Vice President was formally invited to the hearing of Nov. 6, 2014 and he did not attend.
+Headlines ( Article MRec ), pagematch: 1, sectionmatch: 1
+Click here to join the discussion
+Follow Us:
+Follow @PhilstarNews
+More Headlines
+Nothing official yet on Duterte-Marcos tandem
+House to ban ‘election by inheritance’
+CNN poll: Philippines has world’s 2nd best food
+UNA: Abad has P581 B for LP campaign fund
+Binay-Jinggoy tandem still possible for 2016 polls
+NEDA OKs infra projects in energy, transport sectors
+Gas, diesel prices up anew
+Tuason says Jinggoy got P19 M in commissions
+Korina on nationwide tour to seek support for Mar
+BI deports nine Chinese poachers
+Sections
+Home
+Headlines
+Opinion
+Nation
+World
+Business
+Sports
+Entertainment
+Lifestyle
+Other Sections
+Feedback
+View the discussion thread.
+LATEST NEWS
+TRENDING
+Poland names 4 new ministers amid eavesdropping scandal
+June 16, 2015 - 7:09am
+Turkey's main opposition: Erdogan must stop 'meddling'
+June 16, 2015 - 6:23am
+ECB leader says up to Greece to act on bailout now
+June 16, 2015 - 5:00am
+Amnesty urges world to take more responsibility for refugees
+June 16, 2015 - 4:26am
+Saudi Arabia opens $585B stock market to foreign investors
+June 16, 2015 - 3:31am
+View more »
+Headines ( Button Ad ), pagematch: 1, sectionmatch: 1
+Headlines ( MRec ), pagematch: 1, sectionmatch: 1
+Headlines ( Skyscraper 1 ), pagematch: 1, sectionmatch: 1
+Healines Skinning Right, pagematch: , sectionmatch: 1
+About Us
+Contact Us
+Advertise With Us
+Subscribe to Newspaper
+Site Map
+Privacy Policy
+Member Agreement
+Copyright Notice
+6TH Floor, RFM Corporate Center Pioneer St., Mandaluyong City Philippines
+Tel. No. (632) 637-5400
+For advertising concerns: email
+advertising@philstar.com
+For marketing concerns: email
+marketing@philstar.com
+the philippine star
+|
+pilipino star ngayon
+|
+the freeman
+|
+pang-masa
+|
+banat
+Copyright © 2012. Philstar. All Right Reserved
