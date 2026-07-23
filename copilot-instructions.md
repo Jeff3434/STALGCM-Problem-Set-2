@@ -4,8 +4,8 @@ Tasks
 Using Wikipedia articles and their associated references as the source of data, each group shall complete the following tasks:
 
 1. Retrieval. Retrieve the target Wikipedia articles and their associated references using any appropriate method, such as copy-and-paste, downloading the source file, or using a software application.
-   a. 2016 Philippine Presidential Election: https://en.wikipedia.org/wiki/2016_Philippine_presidential_election
-   b. 2022 Philippine Presidential Election: https://en.wikipedia.org/wiki/2022_Philippine_presidential_election
+   - 2016 Philippine Presidential Election: https://en.wikipedia.org/wiki/2016_Philippine_presidential_election
+   - 2022 Philippine Presidential Election: https://en.wikipedia.org/wiki/2022_Philippine_presidential_election
 2. Pre-processing. Remove document tags, unnecessary spaces, table text, formatting artifacts, and other unrelated keywords, symbols, or noise from the data. An example is shown below.
 
 | Before                                  | After       |
